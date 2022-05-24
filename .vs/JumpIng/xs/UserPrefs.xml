@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F7639D45-3874-D6B3-0556-B76D87095E00}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Score.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveLeft.cs" Line="18" Column="6" />
+      <File FileName="Assets/Scripts/NovatinMovement.cs" />
+      <File FileName="Assets/Scripts/Obstacles.cs" />
+      <File FileName="Assets/Scripts/GameManager.cs" />
+      <File FileName="Assets/Scripts/Score.cs" Line="37" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JumpIng" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="db9b47c8-f2cd-4390-9fb8-0e1c7f3aa138" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
